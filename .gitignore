@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+# cached correction surfaces = resampled RomGEO grid (not redistributable under CC BY-ND)
+*.C.npy
+*.npy
+# outputs
+*.nc
+*.csv

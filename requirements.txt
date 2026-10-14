@@ -1,0 +1,7 @@
+numpy
+scipy
+pandas
+pyproj
+rasterio
+netCDF4
+romgeo
